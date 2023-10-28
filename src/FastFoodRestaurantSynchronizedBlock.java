@@ -75,3 +75,14 @@ public class FastFoodRestaurantSynchronizedBlock {
         System.out.println("Total time of execution time :"+ (System.currentTimeMillis()-startTime));
     }
 }
+
+
+/*
+Nikita bought a burger 
+Vivek bought a burger 
+PriyaRanjan bought a burger 
+prakash bought a burger 
+Total number of burger sold 4
+Last name of Client prakash
+Total time of execution time :2066   
+*/
