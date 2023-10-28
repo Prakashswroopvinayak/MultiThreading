@@ -69,5 +69,19 @@ public class FastFoodRestaurant {
         System.out.println("Last name of Client "+ fastFoodRestaurant.lastCustomerName);
 
         System.out.println("Total time of execution time :"+ (System.currentTimeMillis()-startTime));
+
+
+        
     }
 }
+
+
+/*
+prakash bought a burger 
+Vivek bought a burger 
+PriyaRanjan bought a burger 
+Nikita bought a burger 
+Total number of burger sold 4
+Last name of Client PriyaRanjan
+Total time of execution time :2091
+*/
